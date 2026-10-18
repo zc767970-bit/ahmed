@@ -1,0 +1,6 @@
+{
+  "name": "الامان | تطبيق حمودي وسيمو",
+  "description": "تطبيق الأمان الخاص بحمودي وسيمو لتتبع المشاوير والموقع المباشر، الشات والريكوردات الصوتية، منبه المواعيد غير المحددة، زر الطوارئ والفرح، مقياس الحب والصناديق الأربعة، والمناسبات الخاصة والأسئلة المفاجئة.",
+  "requestFramePermissions": ["geolocation", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
